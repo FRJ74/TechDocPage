@@ -129,7 +129,11 @@ code {
 }
 
 
-/* classes & ids */
 #space {
     text-indent: 10px;
 }
+
+#last-item {
+    border-bottom: 1px solid;
+}
+
